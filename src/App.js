@@ -7,7 +7,7 @@ class App extends Component {
     super(props);
   
     this.state = {
-      headerText: "Welcome to React",
+      headerText: "Welcome to this Webapp development",
       contentText: "In this lecture, we will go over the Components API"
     };
   }
